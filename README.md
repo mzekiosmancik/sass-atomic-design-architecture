@@ -41,5 +41,4 @@
 #### References
 
 - [http://bradfrost.com/blog/post/atomic-web-design/](http://bradfrost.com/blog/post/atomic-web-design/)
-- [How to maintain product UX consistency?](https://blog.hannahcdesign.com/how-to-maintain-product-ux-consistency-71f58df0a91f)
-- [https://github.com/franckgaudin/sass-atomic-design-architecture](https://github.com/franckgaudin/sass-atomic-design-architecture)
+- [https://github.com/franckgaudin/sass-atomic-design-architecture](https://gael-boyenval.gitbook.io/atomic-design-css-architecture-with-itcss-bem-sass/principles/atomic-design-system)
